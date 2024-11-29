@@ -1,0 +1,31 @@
+# Flutter-specific
+.dart_tool/
+.idea/
+.packages
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+
+# iOS-specific
+ios/Flutter/Generated.xcconfig
+ios/.symlinks/
+ios/Pods/
+ios/Podfile.lock
+
+# Android-specific
+.gradle/
+*.iml
+.idea/workspace.xml
+.idea/libraries
+.idea/modules.xml
+.idea/caches
+.idea/inspectionProfiles
+android/local.properties
+android/app/debug.keystore
+
+# VS Code-specific
+.vscode/
+
+# macOS-specific
+.DS_Store
